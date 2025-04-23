@@ -14,7 +14,7 @@
         {
             "name": "Juan M Rube",
             "email": "jmrube10@gmail.com"
-        },
+        }
     ],
     "require": {
         "php": ">=8.1",
