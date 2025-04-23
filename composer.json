@@ -1,6 +1,6 @@
 {
-    "name": "rackbeat/laravel-ui-avatars",
-    "description": "Fork of Rackbeat/laravel-ui-avatars. Official Laravel wrapper around ui-avatars.com and LasseRafn/php-initial-avatar-generator",
+    "name": "juanrube/laravel-ui-avatars",
+    "description": "Fork and refactor of Rackbeat/laravel-ui-avatars. Official Laravel wrapper around ui-avatars.com and LasseRafn/php-initial-avatar-generator",
     "keywords": [
         "laravel",
         "ui-avatars",
