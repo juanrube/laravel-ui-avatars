@@ -123,7 +123,7 @@ return [
 	| List of available providers
 	*/
 	'providers'        => [
-		'api'   => Rackbeat\UIAvatars\Generators\ApiGenerator::class,
-		'local' => Rackbeat\UIAvatars\Generators\LocalGenerator::class,
+		'api'   => Juanrube\UIAvatars\Generators\ApiGenerator::class,
+		'local' => Juanrube\UIAvatars\Generators\LocalGenerator::class,
 	],
 ];

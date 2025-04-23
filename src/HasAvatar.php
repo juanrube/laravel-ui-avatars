@@ -1,6 +1,6 @@
 <?php
 
-namespace Rackbeat\UIAvatars;
+namespace Juanrube\UIAvatars;
 
 use Intervention\Image\Image;
 

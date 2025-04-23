@@ -12,13 +12,9 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Lasse Rafn",
-            "email": "lasserafn@gmail.com"
+            "name": "Juan M Rube",
+            "email": "jmrube10@gmail.com"
         },
-        {
-            "name": "Rackbeat",
-            "email": "open-source@rackbeat.com"
-        }
     ],
     "require": {
         "php": ">=8.1",
@@ -31,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Rackbeat\\UIAvatars\\": "src/"
+            "Juanrube\\UIAvatars\\": "src/"
         }
     },
     "autoload-dev": {
@@ -45,7 +41,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Rackbeat\\UIAvatars\\UIAvatarsServiceProvider"
+                "Juanrube\\UIAvatars\\UIAvatarsServiceProvider"
             ]
         }
     }

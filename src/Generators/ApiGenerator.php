@@ -1,8 +1,8 @@
 <?php
 
-namespace Rackbeat\UIAvatars\Generators;
+namespace Juanrube\UIAvatars\Generators;
 
-use Rackbeat\UIAvatars\AvatarGeneratorInterface;
+use Juanrube\UIAvatars\AvatarGeneratorInterface;
 use LasseRafn\InitialAvatarGenerator\InitialAvatar;
 
 class ApiGenerator implements AvatarGeneratorInterface
